@@ -1,3 +1,3 @@
 # 2-4_Decoder
 
-Table of Contents
+The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom Compiler
