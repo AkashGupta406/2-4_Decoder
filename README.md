@@ -3,14 +3,14 @@
 The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom Compiler
 
 # Table of Content
-- Abstract
+- [Abstract](#Abstract)
 - Introduction
 - Tools Used
 - 2:4 Decoder Circuit Design
 - CMOS 1:2 Decoder
 - CMOS 2:4 Decoder
 - Netlist
-- Acknowledgement
+- [Acknowledgement](#Acknowledgement)
 - Reference
 
 # Abstract
@@ -243,7 +243,7 @@ c28 vout0 gnd! c=5p
 
 .end
 
-# Acknowledgement
+# ***Acknowledgement
 - Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 - Synopsys, India
 - VLSI System Design(VSD) Corporation Private Limited India
