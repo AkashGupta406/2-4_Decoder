@@ -23,3 +23,10 @@ The fundamental digital module is the decoder which decodes the coded input whic
 ![2-to-4-binary-decoder](https://user-images.githubusercontent.com/96524064/156178958-7f741688-3732-4c8a-9c6a-60dfb9089ba4.jpg)
 ![gate_level_decoder](https://user-images.githubusercontent.com/96524064/156178991-6a893025-9c08-49e6-a525-e0098dd0d116.png)
 
+The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH” at logic level “1” while the remaining outputs are held “LOW” at logic “0” so only one output can be active (HIGH) at any one time. Therefore, whichever output line is “HIGH” identifies the binary code present at the input, in other words it “de-codes” the binary input.
+
+# Tool Used
+- Synopsys Custom Compiler :  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+- Synopsys Primewave :  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+- Synopsys 28nm PDK :  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+
