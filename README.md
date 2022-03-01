@@ -31,17 +31,38 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 - Synopsys 28nm PDK :  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
 # 2:4 Decoder Design
-1:2 decoder using NOR Gates
+## 1:2 decoder using NOR Gates
 
 ![Nor_decoder](https://user-images.githubusercontent.com/96524064/156181455-3aa880ff-618d-4e6f-bc29-9470cef642aa.png)
 
-Reference Circuit of 1:2 decoder
+## Reference Circuit of 1:2 decoder using Static CMOS logic
 
 ![DEC_reference](https://user-images.githubusercontent.com/96524064/156185318-e6243486-4526-48ad-879f-99fe04995f16.jpeg)
 
-2:4 decoder implementation using 1:2 decoders
+## 2:4 decoder implementation using 1:2 decoders
 
 ![2_4_using_1_2](https://user-images.githubusercontent.com/96524064/156184232-e0c05155-6bd5-4f51-8291-64200e1a1a4d.png)
+
+# CMOS 1:2 Decoder
+## Implementation of 1:2 decoder in Synopsys Custom Compiler
+- Schematic
+
+- Symbol
+
+- TestBench Symbol
+
+- TestBench Waveform
+
+## Implementation of 2:4 Decoder using 1:2 Decoders in Synopsys Custom Compiler
+- Schematic
+
+- Symbol
+
+- TestBench Symbol
+
+- TestBench Waveform
+
+
 
 
 
