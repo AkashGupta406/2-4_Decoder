@@ -29,7 +29,7 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 - Synopsys Primewave :  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 - Synopsys 28nm PDK :  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
-# 2:4 Decoder Design
+# 2:4&nbspDecoder&nbspCircuit&nbspDesign
 ## 1:2 decoder using NOR Gates
 
 ![Nor_decoder](https://user-images.githubusercontent.com/96524064/156181455-3aa880ff-618d-4e6f-bc29-9470cef642aa.png)
