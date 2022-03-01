@@ -7,8 +7,8 @@ The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom 
 - [Introduction](#Introduction)
 - [Tools Used](#Tools_Used)
 - [2:4 Decoder Circuit Design](#2-4_Decoder_Circuit_Design)
-- [CMOS 1:2 Decoder](#CMOS_1:2_Decoder)
-- [CMOS 2:4 Decoder](#CMOS_2:4_Decoder)
+- [CMOS 1:2 Decoder](#CMOS_1-2_Decoder)
+- [CMOS 2:4 Decoder](#CMOS_2-4_Decoder)
 - [Netlist](#Netlist)
 - [Acknowledgement](#Acknowledgement)
 - [References](#References)
@@ -42,7 +42,7 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 
 ![2_4_using_1_2](https://user-images.githubusercontent.com/96524064/156184232-e0c05155-6bd5-4f51-8291-64200e1a1a4d.png)
 
-# CMOS_1:2_Decoder
+# CMOS_1-2_Decoder
 ## Implementation of 1:2 decoder in Synopsys Custom Compiler
 ### Symbol
 
@@ -60,7 +60,7 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 
 ![12dec_waveform](https://user-images.githubusercontent.com/96524064/156190508-5ae79575-1b15-4873-a20e-e7c67f7eee5b.jpeg)
 
-# CMOS_2:4_Decoder
+# CMOS_2-4_Decoder
 ## Implementation of 2:4 Decoder using 1:2 Decoders in Synopsys Custom Compiler
 ### Symbol
 
