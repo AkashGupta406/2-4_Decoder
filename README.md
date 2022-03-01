@@ -6,7 +6,7 @@ The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom 
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Tools Used](#Tools Used)
-- [2:4&nbspDecoder&nbspCircuit&nbspDesign](#2:4&nbspDecoder&nbspCircuit&nbspDesign)
+- [2:4 Decoder Circuit Design](#2:4&nbspDecoder&nbspCircuit&nbspDesign)
 - [CMOS 1:2 Decoder](#CMOS 1:2 Decoder)
 - [CMOS 2:4 Decoder](#CMOS 2:4 Decoder)
 - [Netlist](#Netlist)
@@ -24,7 +24,7 @@ The fundamental digital module is the decoder which decodes the coded input whic
 
 The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH” at logic level “1” while the remaining outputs are held “LOW” at logic “0” so only one output can be active (HIGH) at any one time. Therefore, whichever output line is “HIGH” identifies the binary code present at the input, in other words it “de-codes” the binary input.
 
-# Tool Used
+# Tools Used
 - Synopsys Custom Compiler :  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
 - Synopsys Primewave :  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 - Synopsys 28nm PDK :  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
