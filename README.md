@@ -6,7 +6,7 @@ The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom 
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Tools Used](#Tools Used)
-- [2:4 Decoder Circuit Design](#2:4&nbspDecoder&nbspCircuit&nbspDesign)
+- [2:4&nbspDecoder&nbspCircuit&nbspDesign](#2:4&nbspDecoder&nbspCircuit&nbspDesign)
 - [CMOS 1:2 Decoder](#CMOS 1:2 Decoder)
 - [CMOS 2:4 Decoder](#CMOS 2:4 Decoder)
 - [Netlist](#Netlist)
