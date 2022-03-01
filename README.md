@@ -47,20 +47,36 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 ## Implementation of 1:2 decoder in Synopsys Custom Compiler
 - Schematic
 
+![12dec_symbol](https://user-images.githubusercontent.com/96524064/156190303-af1799f3-33f7-4f0f-81e5-c1fdd7b48d8c.jpeg)
+
 - Symbol
+
+![12dec_schematic](https://user-images.githubusercontent.com/96524064/156190358-aa06c35e-cd9d-453b-8f3d-7a8f8dd73971.jpeg)
 
 - TestBench Symbol
 
+![12dec_tb](https://user-images.githubusercontent.com/96524064/156190493-e54f01e2-9c82-4f99-ad66-38d1daff0efb.jpeg)
+
 - TestBench Waveform
+
+![12dec_waveform](https://user-images.githubusercontent.com/96524064/156190508-5ae79575-1b15-4873-a20e-e7c67f7eee5b.jpeg)
 
 ## Implementation of 2:4 Decoder using 1:2 Decoders in Synopsys Custom Compiler
 - Schematic
 
+![24_dec_symbol](https://user-images.githubusercontent.com/96524064/156191189-45e5f8fd-f5d8-430a-93e4-a09342ee18bc.jpeg)
+
 - Symbol
+
+![24_dec_schematic](https://user-images.githubusercontent.com/96524064/156191215-edc88fa9-7d54-41c2-b8e4-00945ed8b279.jpeg)
 
 - TestBench Symbol
 
+![24_dec_tb](https://user-images.githubusercontent.com/96524064/156191248-abeb8311-6835-48aa-a818-acb2d6a24ed2.jpeg)
+
 - TestBench Waveform
+
+![24_dec_waveform](https://user-images.githubusercontent.com/96524064/156191271-6d95254a-81ce-4f8f-a596-15e32dcdac5a.jpeg)
 
 
 
