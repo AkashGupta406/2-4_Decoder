@@ -6,12 +6,12 @@ The 2:4 Decoder is designed using 28nm CMOS technology by using Synopsys Custom 
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Tools Used](#Tools Used)
-- [2:4 Decoder Circuit Design](#2:4 Decoder Circuit Design)
+- [2:4 Decoder Circuit Design](#2:4&nbspDecoder&nbspCircuit&nbspDesign)
 - [CMOS 1:2 Decoder](#CMOS 1:2 Decoder)
 - [CMOS 2:4 Decoder](#CMOS 2:4 Decoder)
 - [Netlist](#Netlist)
 - [Acknowledgement](#Acknowledgement)
-- [Reference](#Reference)
+- [References](#References)
 
 # Abstract
 In this paper, I have discussed the designing as well as the implementation of a 2:4 Decoder using the CMOS logic family. Its implementation will be done using the 28nm Synopsis Custom Design Platform. A decoder circuit changes a code into a set of signals. It is called decoder because it does the reverse of encoding. We can verify output using  the waveforms obtained from the circuit. Here we are using the CMOS technology because it has very low static power generation, high density of logicfunctions on chip, small size and good noise immunity.
