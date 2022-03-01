@@ -33,8 +33,13 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 # 2:4 Decoder Design
 1:2 decoder using NOR Gates
 ![Nor_decoder](https://user-images.githubusercontent.com/96524064/156181455-3aa880ff-618d-4e6f-bc29-9470cef642aa.png)
+Reference Circuit of 1:2 decoder
+
+
+
 
 2:4 decoder implementation using 1:2 decoders
+![2_4_using_1_2](https://user-images.githubusercontent.com/96524064/156184232-e0c05155-6bd5-4f51-8291-64200e1a1a4d.png)
 
 
 
