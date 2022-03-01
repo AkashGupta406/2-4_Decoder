@@ -19,6 +19,7 @@ In this paper, I have discussed the designing as well as the implementation of a
 
 # Introduction
 The fundamental digital module is the decoder which decodes the coded input which is generally used in the all types of memory devices. Most common decoder circuit is an n input to 2^n output binary decoder. In the conventional design the CMOS technology is used to design the logic of any application
+
 ![2-to-4-binary-decoder](https://user-images.githubusercontent.com/96524064/156178958-7f741688-3732-4c8a-9c6a-60dfb9089ba4.jpg)
 ![gate_level_decoder](https://user-images.githubusercontent.com/96524064/156178991-6a893025-9c08-49e6-a525-e0098dd0d116.png)
 
