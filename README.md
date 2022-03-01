@@ -31,5 +31,10 @@ The binary inputs A0 and A1 determine which output line from D0 to D3 is “HIGH
 - Synopsys 28nm PDK :  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
 
 # 2:4 Decoder Design
+1:2 decoder using NOR Gates
+![Nor_decoder](https://user-images.githubusercontent.com/96524064/156181455-3aa880ff-618d-4e6f-bc29-9470cef642aa.png)
+
+2:4 decoder implementation using 1:2 decoders
+
 
 
